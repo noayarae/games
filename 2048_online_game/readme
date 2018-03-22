@@ -1,1 +1,6 @@
+Expectimax should be run from:
+ai_expectimax.py
+and Monte Carlo Tree Search from
+ai_mcts.py
 
+game.py is a function file for both expectimax and mcts
