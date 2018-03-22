@@ -1,3 +1,7 @@
+#Authors:
+#   Khoi Nguyen, and
+#   Efrain Noa-Yarasca
+
 from __future__ import division
 
 from game import *
