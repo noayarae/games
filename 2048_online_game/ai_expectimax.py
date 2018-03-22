@@ -1,3 +1,7 @@
+#Authors:
+#   Khoi Nguyen, and
+#   Efrain Noa-Yarasca
+
 from game import *
 
 import itertools
